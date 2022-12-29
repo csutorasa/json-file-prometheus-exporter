@@ -1,5 +1,7 @@
 # Json file prometheus exporter
 
+**This project is a proof of concept, should not be used in any production scenarios!**
+
 json-file-prometheus-exporter is a command line application,
 that is able to read files with [JSON content](https://www.json.org/),
 and export them to [prometheus](https://prometheus.io/).
